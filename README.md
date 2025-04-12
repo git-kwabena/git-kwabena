@@ -1,4 +1,4 @@
 ### Hi, I'm Kwabena
 
-Currently learning Go and React
+Currently learning Go
 
